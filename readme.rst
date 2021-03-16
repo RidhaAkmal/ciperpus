@@ -3,6 +3,7 @@ Pendahuluan
 ###################
 
 Template Aplikasi ini memanfaatkan CodeIgniter
+
 PHP sebagai backend dan Bootstrap sebagai frontend:
 
 1. Gunakan WAMP/ XAMPP untuk menjalankan pada desktop agar aplikasi bisa dicompile tanpa hosting
