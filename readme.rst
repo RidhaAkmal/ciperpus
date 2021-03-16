@@ -1,4 +1,26 @@
 ###################
+Pendahuluan
+###################
+
+Template Aplikasi ini memanfaatkan CodeIgniter, dan PHP sebagai backend dan Bootstrap sebagai frontend:
+
+1. Gunakan WAMP/ XAMPP untuk menjalankan pada desktop agar aplikasi bisa dicompile tanpa hosting
+2. Export database pada file ciperpus.db ke PHPMyAdmin http://localhost/phpmyadmin/    
+    default login adalah
+    username :root 
+    passwordnya : ''     (blank alias kosongkan saja)
+3. setelah selesai export database, anda bisa menjalankan aplikasi dengan link http://localhost/ciperpus
+4. proses login 
+   Username : admin
+   Password : admin
+   
+   Username : akmal
+   Password : 1234
+   
+5. Anda bisa melihat tampilan Admin dashboard lalu bisa mulai melakukan proses menambah, mengedit, menghapus dan update pada data yang telah ada.
+
+
+###################
 What is CodeIgniter
 ###################
 
