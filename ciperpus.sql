@@ -133,7 +133,7 @@ CREATE TABLE `petugas` (
 --
 
 INSERT INTO `petugas` (`id_petugas`, `username`, `full_name`, `password`) VALUES
-(1, 'akmal', 'Ridha Akmal Putra', ' $2y$05$noFxKpDdvvmC3PEmscQ/7ebCBdhpq82lRVfPTjkM3Xwr9minaaXDm'),
+(1, 'akmal', 'Ridha Akmal Putra', '$2y$05$noFxKpDdvvmC3PEmscQ/7ebCBdhpq82lRVfPTjkM3Xwr9minaaXDm'),
 (2, 'admin', 'Admin Perpus', '$2y$05$0RfFGKdD.I9/9SRZd9../.kIQg7pwgDxhICT0t1aPZh29Ia2oRA3u');
 
 -- --------------------------------------------------------
